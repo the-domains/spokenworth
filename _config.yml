@@ -1,0 +1,28 @@
+name: SpokenWorth
+favicon: null
+layout_spectrum: 0.8960834201425314
+typography_spectrum: 0.19786750944331288
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7587473790626973
+  lightness: 0.5712372311390936
+  saturation: 0.26129318540915847
+  rhythmicContrast: 0.7389264854136854
+purpose: []
